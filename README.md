@@ -9,9 +9,10 @@ Provide a bulleted list with four major points from the two analysis deliverable
 ```
 SELECT DISTINCT ON (e.emp_no) e.emp_no,
 ```
-* Finally created a table named retiring_titles and count the number of different titles. 
-* Run a new query to create a new table of employees who were qualified for mentorship program named "mentorship_eligibilty". 
+* Finally created a table named retiring_titles and count the number of different titles.   
+![Alt text](Count.PNG)
 
+* Run a new query to create a new table of employees who were qualified for mentorship program named "mentorship_eligibilty". 
 
 ## Summary
 Provide high-level responses to the following questions, then provide two additional queries or tables that may provide more insight into the upcoming "silver tsunami."
